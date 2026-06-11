@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-capital-management
+description: "BIAN Service Domain: Capital Management (Manage pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - manage
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Finance"
+  bian/asset-type: "Capital Plan"
+  bian/control-record: "Capital Plan Management Plan"
